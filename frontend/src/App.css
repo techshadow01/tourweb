@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Island+Moments&display=swap");
+@import "tailwindcss";
+
+body {
+  overflow-x: hidden;
+}
+
+.island {
+  font-family: "Island Moments", cursive;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
